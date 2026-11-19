@@ -26,5 +26,11 @@ window.ELEMENTS = [
     recap: "Djeddah · hôtel d'Abou Dhabi", zone: { x: 15, y: 35, r: 8 } },
   { image: "images/miami-marina.webp", original: "images/miami-marina-original.webp",
     reponse: "De la vraie eau dans la marina", detail: "La marina de Miami est célèbre pour son eau… peinte au sol ! Ici, on y a mis de la vraie mer.",
-    recap: "Miami · vraie eau dans la marina", zone: { x: 25, y: 68, r: 16 } }
+    recap: "Miami · vraie eau dans la marina", zone: { x: 25, y: 68, r: 16 } },
+  { image: "images/spa-las-vegas.webp", original: "images/spa-las-vegas-original.webp",
+    reponse: "Le panneau de Las Vegas", detail: "« Welcome to Fabulous Las Vegas » planté en plein Raidillon de l'Eau Rouge !",
+    recap: "Spa · panneau Las Vegas", zone: { x: 71, y: 56, r: 10 } },
+  { image: "images/bakou-ville.webp", original: "images/bakou-ville-original.avif",
+    reponse: "Des gratte-ciel à la place des remparts", detail: "À Bakou, la piste longe les remparts médiévaux de la vieille ville, pas des tours de verre.",
+    recap: "Bakou · gratte-ciel", zone: { x: 50, y: 32, r: 26 } }
 ];
