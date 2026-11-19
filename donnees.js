@@ -38,5 +38,8 @@ window.ELEMENTS = [
     recap: "Spielberg · tribune disparue", zone: { x: 82, y: 22, r: 17 } },
   { image: "images/imola-statue.webp", original: "images/imola-statue-original.webp",
     reponse: "Une statue au bord de la piste", detail: "Sur la ligne droite d'Imola, il n'y a que de l'herbe. La statue d'Ayrton Senna, elle, est dans le parc de Tamburello.",
-    recap: "Imola · statue", zone: { x: 81, y: 49, r: 10 } }
+    recap: "Imola · statue", zone: { x: 81, y: 49, r: 10 } },
+  { image: "images/lusail-michelin.png",
+    reponse: "La banderole Michelin", detail: "Michelin, c'est le pneu de la MotoGP ! En F1, c'est Pirelli, comme sur les panneaux du mur.",
+    recap: "Lusail · banderole Michelin", zone: { x: 50, y: 33, r: 22 } }
 ];
