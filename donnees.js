@@ -21,9 +21,9 @@ window.ELEMENTS = [
   { image: "images/silverstone-vibreurs.webp", original: "images/silverstone-vibreurs-original.webp",
     reponse: "Les vibreurs sont vert-blanc-rouge", detail: "Les couleurs de l'Italie à Silverstone ? En vrai, ils sont noirs et blancs.",
     recap: "Silverstone · vibreurs italiens", zone: { x: 36, y: 70, r: 12 } },
-  { image: "images/djeddah-ciel.webp", original: "images/djeddah-ciel-original.webp",
-    reponse: "L'hôtel de Yas Marina", detail: "L'hôtel d'Abou Dhabi, avec sa verrière au-dessus du circuit, s'est invité dans le ciel de Djeddah !",
-    recap: "Djeddah · hôtel d'Abou Dhabi", zone: { x: 15, y: 35, r: 8 } },
+  { image: "images/djeddah-hotel.webp", original: "images/djeddah-hotel-original.jpg",
+    reponse: "L'hôtel de Yas Marina", detail: "L'hôtel d'Abou Dhabi, avec sa verrière lumineuse, s'est installé au bord du circuit de Djeddah !",
+    recap: "Djeddah · hôtel d'Abou Dhabi", zone: { x: 17.5, y: 57, r: 9 } },
   { image: "images/miami-marina.webp", original: "images/miami-marina-original.webp",
     reponse: "De la vraie eau dans la marina", detail: "La marina de Miami est célèbre pour son eau… peinte au sol ! Ici, on y a mis de la vraie mer.",
     recap: "Miami · vraie eau dans la marina", zone: { x: 25, y: 68, r: 16 } },
@@ -32,5 +32,11 @@ window.ELEMENTS = [
     recap: "Spa · panneau Las Vegas", zone: { x: 71, y: 56, r: 10 } },
   { image: "images/bakou-ville.webp", original: "images/bakou-ville-original.avif",
     reponse: "Des gratte-ciel à la place des remparts", detail: "À Bakou, la piste longe les remparts médiévaux de la vieille ville, pas des tours de verre.",
-    recap: "Bakou · gratte-ciel", zone: { x: 50, y: 32, r: 26 } }
+    recap: "Bakou · gratte-ciel", zone: { x: 50, y: 32, r: 26 } },
+  { image: "images/spielberg-tribune.webp", original: "images/spielberg-tribune-original.webp",
+    reponse: "La tribune a disparu", detail: "Au Red Bull Ring, une immense tribune couvre la colline à droite. Ici, il ne reste que de l'herbe !",
+    recap: "Spielberg · tribune disparue", zone: { x: 82, y: 22, r: 17 } },
+  { image: "images/imola-statue.webp", original: "images/imola-statue-original.webp",
+    reponse: "Une statue au bord de la piste", detail: "Sur la ligne droite d'Imola, il n'y a que de l'herbe. La statue d'Ayrton Senna, elle, est dans le parc de Tamburello.",
+    recap: "Imola · statue", zone: { x: 81, y: 49, r: 10 } }
 ];
